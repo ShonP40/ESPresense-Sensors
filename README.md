@@ -2,8 +2,8 @@
 A custom-made PCB designed for an ESP32 running ESPresense with weather, light and motion sensors
 
 ## Pinout
-- Weather sensor: SCL - GPIO21, SDA - GPIO22
-- PIR sensor: OUT - GPIO16
+- Weather Sensor: SCL - GPIO21, SDA - GPIO22
+- PIR Sensor: OUT - GPIO16
 - Light Sensor: SCL - GPIO23, SDA - GPIO25
 
 ## Tested components
