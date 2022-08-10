@@ -1,5 +1,5 @@
 # ESPresense Sensors
-A custom-made PCB designed for an ESP32 running ESPresense with weather, light and motion sensors
+A custom-made PCB designed for an ESP32 running [ESPresense](https://espresense.com) with weather, light and motion sensors
 
 ## Pinout
 - Weather Sensor: SCL - GPIO21, SDA - GPIO22
